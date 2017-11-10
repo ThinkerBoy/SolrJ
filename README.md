@@ -1,0 +1,2 @@
+# SolrJ
+SolrJ是Apache官方提供的一套Java开发的，访问Solr服务的API，通过这套API可以让我们的程序与Solr服务产生交互，让我们的程序可以实现对Solr索引库的增删改查。
